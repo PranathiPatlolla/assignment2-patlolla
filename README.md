@@ -16,3 +16,4 @@ SunRisers Hyderabad(SRH)
 * Chennai Super Kings
 * Royal Challengers Banglore
 * Kolkata knight Riders
+![ About Pranathi_07](AboutMe.md)
