@@ -13,3 +13,6 @@ SunRisers Hyderabad(SRH)
 2. Bhuvneshwar Kumar
 3. Fazal
 
+* Chennai Super Kings
+* Royal Challengers Banglore
+* Kolkata knight Riders
