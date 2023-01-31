@@ -41,3 +41,19 @@ This table tells about the visiting countries which are needed to explore with f
 
 > “Two things are infinite: the universe and human stupidity; and I’m not sure about the universe.”
 —   *Albert Einstein*
+
+---
+
+### Javascript code snippet
+
+> [javascript stack overflow](https://medium.com/nerd-for-tech/what-is-stack-overflow-in-javascript-540e7067b894)
+
+```
+
+document.addEventListener("keydown", function(event) {
+  console.log(event.which);
+})
+
+```
+
+> [javascript key codes](https://css-tricks.com/snippets/javascript/javascript-keycodes/)
